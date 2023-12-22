@@ -42,7 +42,7 @@ function App() {
       
         <button
           onClick={fetchQuote}
-          className="btn mt-3 btn-primary"
+          className="btn mt-3 btn-secondary"
         >
           New Quote
         </button>
